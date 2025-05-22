@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body, html {
+    background: #050505;
+}
+.app{
+    position: relative;
+    height: 100svh;
+    width: 100%;
+    background: #050505;
+    overflow: hidden;
+    font-family: "Montserrat", sans-serif;
+    color: #fff;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img{
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 70%;
+    margin: 0 auto;
+    animation: catAnim 1.5s ease forwards;
+    z-index: 10;
+    background: transparent;
+}
+.img img{
+    display: block;
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    background: transparent;
+    mix-blend-mode: normal;
+}
+@keyframes catAnim {
+    0%{
+        translate: 0 50%;
+    }
+    100%{
+        translate: 0 0;
+    }
+}
+.okak{
+    position: absolute;
+    bottom: 150px;
+    left: 50%;
+    translate: -50% 0;
+    font-weight: 900;
+    font-size: 160px;
+    color: white;
+}
+.error{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 850px;
+    font-weight: 900;
+    transform: translate(-50%, 800px);
+    animation: errorAnim 1.5s ease forwards;
+    color: #d32f2f;
+    z-index: 5;
+    background: transparent;
+    text-align: center;
+    width: 100%;
+}
+
+
+@keyframes errorAnim {
+    100% {
+        transform: translate(-50%, -50%);
+    }
+}

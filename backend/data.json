@@ -1,0 +1,118 @@
+{
+  "blacklist": [
+    "yuliitezarygml",
+    "xiaomi-fimware",
+    "tello_dji_clutultinerilomakeri"
+  ],
+  "contact_messages": [
+    {
+      "name": "\u0439\u0446\u0443",
+      "email": "yuliitezary@gmail.com",
+      "subject": "\u0439\u0446\u0443",
+      "message": "\u0439\u0446\u0443",
+      "timestamp": "2025-05-22T18:28:32.073240"
+    }
+  ],
+  "linkedin": {
+    "name": "Terentii (Vasilie) Iulian",
+    "headline": "Full Stack Developer",
+    "location": "Moldova",
+    "profile_image_url": "https://media.licdn.com/dms/image/v2/D4D35AQE9LW28jSyJ9Q/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1732052961702?e=1748538000&v=beta&t=CDIySnLw7Eba7phIkjmOJwUsf5xlnV6LaJlFakeOiTY",
+    "banner_image_url": "https://media.licdn.com/dms/image/v2/D4E16AQG4gYRAXF-Ejg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1684476989538?e=1753315200&v=beta&t=nsv0zDfEqd--HWdwRS1r7MiOYiLt0Vo9lNxdjeqORRo",
+    "summary": "Passionate Full Stack Developer with expertise in React, TypeScript, and Python. Experienced in building responsive web applications with modern technologies.",
+    "experience": [
+      {
+        "title": "Full Stack Developer",
+        "company": "OKAK Tech",
+        "location": "Moldova",
+        "from": "2021-01-01",
+        "to": "Present",
+        "description": "Developing full-stack web applications using React, TypeScript, and Python/Flask. Implementing responsive UI designs and RESTful APIs."
+      },
+      {
+        "title": "Frontend Developer",
+        "company": "Tech Solutions",
+        "location": "Moldova",
+        "from": "2019-03-01",
+        "to": "2020-12-31",
+        "description": "Created responsive user interfaces using React and CSS. Worked on various client projects and improved website performance."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Technical University of Moldova",
+        "degree": "Bachelor in Computer Science",
+        "field": "Computer Science",
+        "from": "2015-09-01",
+        "to": "2019-06-30"
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "HTML5",
+      "CSS3",
+      "Python",
+      "Flask",
+      "Node.js",
+      "MongoDB",
+      "PostgreSQL",
+      "Git",
+      "Docker",
+      "AWS",
+      "RESTful APIs"
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "Russian",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "Romanian",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "profile_url": "https://www.linkedin.com/in/terentii-iulian-ba5728275/"
+  },
+  "twitter": {
+    "name": "\u041e\u041A\u0410\u041A",
+    "username": "okak_dev",
+    "profile_image_url": "https://via.placeholder.com/150",
+    "banner_image_url": "https://via.placeholder.com/1500x500",
+    "description": "Full Stack Developer | Creating web applications with modern technologies | Follow for tech tips and updates",
+    "location": "Moldova",
+    "followers_count": 1024,
+    "following_count": 512,
+    "tweets_count": 2048,
+    "joined_date": "2018-06-01",
+    "tweets": [
+      {
+        "id": "1",
+        "text": "Just launched my new portfolio website built with React and Flask! Check it out at https://okak.dev #webdevelopment #react #flask",
+        "created_at": "2023-09-15T12:00:00Z",
+        "likes_count": 42,
+        "retweets_count": 12
+      },
+      {
+        "id": "2",
+        "text": "Working on a new open source project. Stay tuned for updates! #opensource #programming",
+        "created_at": "2023-09-10T15:30:00Z",
+        "likes_count": 31,
+        "retweets_count": 8
+      },
+      {
+        "id": "3",
+        "text": "TypeScript + React is my favorite tech stack for frontend development. What's yours? #typescript #react #frontend",
+        "created_at": "2023-09-05T09:45:00Z",
+        "likes_count": 56,
+        "retweets_count": 15
+      }
+    ],
+    "profile_url": "https://twitter.com/okak_dev"
+  }
+}
